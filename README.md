@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub page. Look through all of my projects and let me know what you think!
 <center>
 <a href="https://github.com/kubakakauko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kubakakauko&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="charge's stats" />
