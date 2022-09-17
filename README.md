@@ -11,6 +11,10 @@
 <br>
 <hr>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 </center>
 
