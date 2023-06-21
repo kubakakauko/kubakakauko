@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm kubakakauko</h1>
+<h1 align="center">Hi 👋, I'm kubakakauko</h1>
 <h3 align="center">A Machine Learning and AI Student</h3>
 
 - 🔭 I’m currently working on **Eye Strain Minimiser**
