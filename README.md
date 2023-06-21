@@ -32,11 +32,6 @@
   <hr>
  </div>
 
-<center align="center">
-<br>
-<br>
-<hr>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kubakakauko/count.svg" />
