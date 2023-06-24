@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm kubakakauko</h1>
 <h3 align="center">A Machine Learning and AI Student</h3>
 
-- 🔭 I’m currently working on **Eye Strain Minimiser**
+- 🔭 I’m currently working on **Eye Strain Minimiser** with help of ML. 
 
 - 🌱 I’m currently learning **Rust**
-
-- 💬 Ask me about **random facts**
-
-- ⚡ Fun fact **(I'm boring)**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
